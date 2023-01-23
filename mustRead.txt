@@ -1,0 +1,19 @@
+This Project is Developed by Mr. Gopesh Kumar.
+
+** To run the project successfully.
+
+1.  Download the Project from my Google Drive .
+
+2.  Put the project and Create Two DSN in your System
+
+	i.) DSNgas with LoginDatabase.mdf
+
+	ii.) DsnAgency  with AgencyDatabase.mdf
+
+4. Run  GasAgency.vbp 
+
+5. Create new user by clicking 'New Registration' option.
+
+6. Login with your username and Password.
+
+****************Thank You**********************
